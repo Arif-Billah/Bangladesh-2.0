@@ -1,0 +1,43 @@
+.banner{
+    background-color: #C6E4D6;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    margin: 50px 100px;
+    padding: 80px;
+    font-size: large;
+    border-style: groove;
+    border-radius: 10px;
+}
+.banner-title{
+    font-size: 24px;
+    color: #0E0E0E;
+    font-weight: 10;
+    font-size: 15px;
+
+
+}
+.btn-primary{
+    background-color: #006A50;
+    font-weight: 10px;
+    font-size: 15px;
+    color:white;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+.vision{
+    margin: 50px 100px;
+    padding: 5px;
+    
+}
+
+.setion title{
+    font-weight: bold;
+    font-size: 24;
+    
+}
+.setion-description{
+    font-weight: 1px;
+    font-size: 1px;
+}
