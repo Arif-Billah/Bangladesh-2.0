@@ -176,3 +176,61 @@
     border-radius: 5px;
     font-size: 1em;
   }
+
+ .donate-section{
+   
+    margin: 2px 100px;
+    padding: 30px;
+    text-align: center;
+ }
+ .donate-title {
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .donate-description {
+    font-size: 1em;
+    color: #666;
+    margin-bottom: 20px;
+    line-height: 1.5;
+  }
+
+  .donation-options {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+
+  .donation-option {
+    border: none;
+    border-radius: 5px;
+    padding: 20px 30px;
+    font-size: 1.1em;
+    font-weight: bold;
+  }
+
+  .donation-option.active {
+    background-color: #d8f3dc;
+    color: #007f5f;
+  }
+
+  .other-amount {
+    width: 100%;
+    padding: 15px;
+    font-size: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+
+  .donate-now-btn {
+    background-color: #007f5f;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    border-radius: 5px;
+  }
